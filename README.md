@@ -1,2 +1,2 @@
-# weather-app
-#Live site here.https://pabelmahbub.github.io/weather-app/
+# My daily weather-app
+# Live site here.https://my-daily-weather-app.netlify.app/
